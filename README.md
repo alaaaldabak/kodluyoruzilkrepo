@@ -10,4 +10,4 @@ Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 * First lesson
 * First homework
 * supper
-* 
+
